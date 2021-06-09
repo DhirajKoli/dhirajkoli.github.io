@@ -771,6 +771,8 @@ textarea, label {
 .history-scroller {
   padding-top: 82px;
   max-height: 377px;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
 }
 
 .history-item {
