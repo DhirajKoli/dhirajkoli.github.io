@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-Delay: 20
+
+Sitemap:https://dhirajkoli.github.io/sitemap.xml
